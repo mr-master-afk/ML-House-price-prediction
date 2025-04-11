@@ -32,7 +32,13 @@
 
 6. **ექსპერიმენტების ლოგირება**
     - გამოვიყენე MLflow და DagsHub რომ დამელოგა მოდელის პარამეტრები, მეტრიკები და ვიზუალიზაციები.
-
+---
+## ფაილები
+   - model_experiment.ipynb - საბოლოო ფაილი, სადაც გავტესტე LinearRegression, RandomForestRegressor და Ridge
+   - model_inference.ipynb - kaggl-ის ტესტ set-ის გატესტვა საუკეთესო მოდელზე
+   - LinearRegression-more-cleaning-ft-selection.ipynb - ასევე წრფივი მოდელი შეცვლილი სვეტებით და მიდგომებით
+   - LinearRegression-all-columns.ipynb - პირველი წრფივი მოდელი რომელიც გავტესტე ყველა სვეტზე one hot encoding-ით
+   - დანარჩენი ფაილები ვიზუალიზაციისთვის და kaggle-ის დატასეტები
 ---
 
 ## შენიშვნები
